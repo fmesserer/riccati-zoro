@@ -3,7 +3,8 @@ This repository contains an implementation of Riccati-ZORO as described in
 > [1]
 Riccati-ZORO: An efficient algorithm for heuristic online optimization of internal feedback laws in robust and stochastic model predictive control.\
 > Florian Messerer, Yunfan Gao, Jonathan Frey, Moritz Diehl.
-> 2025. (Arxiv link TBA)
+> 2025.\
+> https://arxiv.org/abs/2511.10473
 
 This implementation uses Python, CasADi and IPOPT.
 For the `acados` implementation, we refer to [a section](#acados-implementation) below.
