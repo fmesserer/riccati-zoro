@@ -42,8 +42,7 @@ This example is described in detail in [5].
 A high-performance implementation of Riccati-ZORO is available in `acados`, see
 https://github.com/acados/acados.
 
-The exact version used in the paper corresponds to
-https://github.com/acados/acados/pull/1676.
+The exact version used in the paper is [release v0.5.2](https://github.com/acados/acados/releases/tag/v0.5.2).
 
 This implementation has been mainly developed by [Yunfan Gao](https://github.com/yf-gao/) and [Jonathan Frey](https://github.com/FreyJo/).
 
@@ -53,7 +52,7 @@ This implementation has been mainly developed by [Yunfan Gao](https://github.com
 https://github.com/FreyJo/zoro-NMPC-2021/pull/2
 
 ## Differential drive robot collision avoidance
-https://github.com/acados/acados/tree/cd290f4/examples/acados_python/zoRO_example/diff_drive
+https://github.com/acados/acados/tree/v0.5.2/examples/acados_python/zoRO_example/diff_drive
 
 # References
 
